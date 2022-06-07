@@ -1,0 +1,3 @@
+## bibtex files to ignore
+*.bib.bak
+*.bib.sav.tmp
